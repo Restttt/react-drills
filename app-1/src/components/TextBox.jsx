@@ -6,7 +6,6 @@ class TextBox extends Component {
         this.state = {
             currentText: '',
             myArray: ['hi', 'tom', 'bob', 'john', 'carter'],
-            filteredResults: [],
         }
     }
 
